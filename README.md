@@ -3,10 +3,10 @@
 
 Madness Combat Boyfriend Mod for Friday Night Funkin'
 
-Whats this mod about?
-This mod is basically my take on one of the grunt men from the Madness Combat series but as the boyfriend.
+Whats is this mod?
+A version of my mod just overhauled to look different.
 
-Whad does this Mod add?
+What does this Mod add?
 A new custom Boyfriend skin for Week 1 - Week 5
 
 
